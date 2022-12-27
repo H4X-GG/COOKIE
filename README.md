@@ -17,7 +17,7 @@
 - `rm -rf COOKIE`
 - `git clone https://github.com/H4X-GG/COOKIE`
 - `cd COOKIE`
-- `python cooke.py`
+- `python cok.py`
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
